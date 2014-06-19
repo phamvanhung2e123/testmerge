@@ -1,3 +1,4 @@
 testmerge
 master
+master
 =========
