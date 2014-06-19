@@ -1,3 +1,5 @@
 testmerge
+newbranch
 master
+
 =========
